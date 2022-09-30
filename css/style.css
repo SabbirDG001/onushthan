@@ -1,5 +1,29 @@
-body{
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto+Condensed&display=swap');
+*{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    scroll-behavior: smooth;
+}
+header{
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+}
+.bgc{
     /* background-color: #dbddf1; */
     background-image: url(../images/sun-tornado.svg);
     background-size: cover;
+}
+.bgc h3{
+    width: 50%;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 10px;
+    margin-bottom: 1rem;
+
+}
+.image{
+    background-color: white;
+    /* background-image: url(../images/Contour\ Line.svg); */
+    padding: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
