@@ -1,0 +1,10 @@
+body{
+    /* background-color: #dbddf1; */
+    background-image: url(../images/sun-tornado.svg);
+}
+.image{
+    background-color: white;
+    /* background-image: url(../images/Contour\ Line.svg); */
+    padding: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
