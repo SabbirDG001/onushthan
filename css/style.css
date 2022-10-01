@@ -10,7 +10,7 @@ header{
 }
 .bgc{
     /* background-color: #dbddf1; */
-    background-image: url(../images/sun-tornado.svg);
+    /* background-image: url(../images/sun-tornado.svg); */
     background-size: cover;
 }
 .bgc h3{
@@ -26,4 +26,10 @@ header{
     /* background-image: url(../images/Contour\ Line.svg); */
     padding: 10px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+h3{
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+.link{
+    margin-top: 1rem;
 }
